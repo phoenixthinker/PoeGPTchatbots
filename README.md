@@ -1,5 +1,5 @@
 # PoeGPTchatbots
-Some useful chatbots created via the free Poe.com platform. (ChatGPT as base)
+Some useful or interesting chatbots created via the free Poe.com platform. (ChatGPT as base)
 
 
 ## Chatbot1: EasyProblemSolver
