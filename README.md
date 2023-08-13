@@ -6,7 +6,7 @@ Poe.com is a platform that lets people ask questions, get instant answers, and h
 (using ChatGPT for free!)
 
 
-## Chatbot1: EasyProblemSolver
+## Chatbot1: EasyProblemSolver (very useful, try it!)
 https://poe.com/EasyProblemSolver
 
 Using ChatGPT as a base, implementing the Tree of Thoughts algorithm, the chatbot will assign different kinds of experts to discuss your question/problem/difficulty/anything and provide relevant information to make life easier!
