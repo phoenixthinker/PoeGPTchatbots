@@ -1,6 +1,10 @@
 # PoeGPTchatbots
 Some useful or interesting chatbots created via the free Poe.com platform. (ChatGPT as base)
 
+# What is Poe.com
+Poe.com is a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with AI.
+(using ChatGPT for free!)
+
 
 ## Chatbot1: EasyProblemSolver
 https://poe.com/EasyProblemSolver
@@ -25,4 +29,5 @@ Cao Cao: Skilled warlord and statesman, central figure in power struggles during
 
 Albert Einstein: German-born physicist who revolutionized our understanding of the universe with the theory of relativity. Nobel Prize winner and influential scientific mind.
 
-## ChatbotX: ... to be updated...
+## ChatbotX: 
+... to be updated...
