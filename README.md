@@ -19,15 +19,16 @@ ChatGPT as a professional writer, help you to improve your writing.
 ## Chatbot3: GeniusWithHeros
 https://poe.com/GeniusWithHeros
 
-This is interesting chatbot! Chat to Sima Yi, Zhuge Liang, Cao Cao, Albert Einstein!
+This is interesting chatbot!
+Chat to Sima Yi(司馬懿), Zhuge Liang(諸葛亮), Cao Cao(曹操), Albert Einstein(愛因斯坦)!
 
-Sima Yi: Prominent strategist and politician in ancient China, played a pivotal role in the rise of the Sima clan.
+Sima Yi(司馬懿): Prominent strategist and politician in ancient China, played a pivotal role in the rise of the Sima clan.
 
-Zhuge Liang: Renowned strategist, statesman, and advisor to Liu Bei during the Three Kingdoms period in China.
+Zhuge Liang(諸葛亮): Renowned strategist, statesman, and advisor to Liu Bei during the Three Kingdoms period in China.
 
-Cao Cao: Skilled warlord and statesman, central figure in power struggles during the Three Kingdoms period, laid foundation for Cao Wei.
+Cao Cao(曹操): Skilled warlord and statesman, central figure in power struggles during the Three Kingdoms period, laid foundation for Cao Wei.
 
-Albert Einstein: German-born physicist who revolutionized our understanding of the universe with the theory of relativity. Nobel Prize winner and influential scientific mind.
+Albert Einstein(愛因斯坦): German-born physicist who revolutionized our understanding of the universe with the theory of relativity. Nobel Prize winner and influential scientific mind.
 
 ## ChatbotX: 
 ... to be updated...
